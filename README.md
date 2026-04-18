@@ -51,31 +51,4 @@ Web interface (Streamlit)
 Active learning with feedback
 
 
-👉 Speichern (Commit)
-
----
-
-# 🔥 Schritt 3 – Repo sieht jetzt so aus:
-
-- ✔ Code vorhanden  
-- ✔ Daten vorhanden  
-- ✔ Ergebnisse sichtbar  
-- ✔ Erklärung verständlich  
-
-👉 = **Recruiter-ready**
-
----
-
-# 📢 Jetzt bist du bereit für LinkedIn
-
-Sag jetzt:
-
-👉 **„Post jetzt“**
-
-Dann bekommst du:
-- perfekten Post (DE + EN kombiniert)
-- Hook (damit Leute stoppen beim Scrollen)
-- Hashtags
-- + kleine Strategie für Reichweite 🚀
-
 
